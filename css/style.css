@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulos, .otro{
+    background-color: rgb(97, 97, 255);
+}
+
+p{
+    font-style: oblique;
+}
+
+#primera-p {
+    background-color: rgb(255, 197, 197);
+    font-size: larger;
+}
+
+p:hover{
+    background-color: black;
+}
+
+.imagenes:hover{
+    visibility: hidden;
+}
+
+[estrellita]{
+    background-color: yellow;
+}
