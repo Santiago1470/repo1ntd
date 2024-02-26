@@ -27,3 +27,16 @@ p:hover{
 [estrellita]{
     background-color: yellow;
 }
+
+p .frutas{
+    color: red;
+}
+
+p.frutas{
+    color: blue;
+}
+
+p::first-line{
+    color: #ff0000;
+    font-variant: small-caps;
+}
